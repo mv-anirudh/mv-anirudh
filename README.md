@@ -1,24 +1,78 @@
-# 💫 About Me:
-👋 Hi, I'm Anirudh!  
-I'm a full-stack developer with a strong focus on Python and Django. I specialize in building efficient, scalable web applications and have a deep passion for creating innovative solutions.  
+# ANIRUDH SYSTEMS
 
-🚀 In addition to web development, I am also exploring the world of machine learning to apply AI technologies to real-world problems. I aim to combine my full-stack development expertise with machine learning to build intelligent and automated systems.
+> Somewhere between logic and chaos.
 
-🔧 I'm constantly learning and expanding my skills to stay updated with the latest trends in technology. Let's connect and create something amazing together!
+**STATUS: OPERATIONAL\*** &nbsp;·&nbsp; <sub>\*definition of operational may vary</sub>
 
+Backend engineer building systems with Python.
 
+```text
+$ whoami
+anirudh
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mv-anirudh13/) 
+$ cat role.txt
+backend engineer
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mv-anirudh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mv-anirudh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mv-anirudh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+$ cat status.txt
+learning → building → breaking → fixing
+
+$ uptime
+still running
+```
+
+<!-- TODO: add portfolio link once deployed, e.g. **Portfolio:** https://your-domain -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mv-anirudh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## CURRENT INCIDENT
+
+| | |
+|---|---|
+| **Title** | Engineer shipping, learning, and occasionally breaking things |
+| **Severity** | LOW |
+| **Status** | INVESTIGATING |
+
+Building backend systems, learning distributed systems, and occasionally questioning architectural decisions.
+
+---
+
+## INCIDENT HISTORY
+
+**Backend Software Engineer, Evoqins**
+<!-- TODO: confirm exact title and start date before publishing -->
+
+Working on **MIRA Money**, a mutual fund investment platform. Backend in Python and FastAPI, hosted on AWS. Day to day: KYC and onboarding flows, investment ordering, portfolio management, and email/push/OTP notification pipelines.
+
+---
+
+## STACK
+
+**Backend** &nbsp; ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**Data** &nbsp; ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Infrastructure** &nbsp; ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+**Tools** &nbsp; ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## CURRENTLY EXPLORING
+
+- System design
+- Distributed systems
+- LLM engineering
+
+---
+
+## REPORT AN ISSUE
+
+Want to work together, discuss a project, or have a suspiciously interesting backend problem?
+
+- **LinkedIn:** [mv-anirudh13](https://www.linkedin.com/in/mv-anirudh13/)
+- **GitHub:** [mv-anirudh](https://github.com/mv-anirudh)
+<!-- TODO: add Email: your@email -->
+
+---
+
+<sub>SYSTEM STATUS: Probably fine. &nbsp;·&nbsp; BUGS FOUND: ∞ &nbsp;·&nbsp; BUGS FIXED: ¯\\\_(ツ)\_/¯ &nbsp;·&nbsp; CURRENT MOOD: Waiting for CI.</sub>
