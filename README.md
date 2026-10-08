@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=00E5A0&center=true&vCenter=true&width=560&lines=%24+shipping+order+%26+redemption+APIs;%24+building+KYC+%26+onboarding+flows;%24+wiring+notification+pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=00E5A0&center=true&vCenter=true&width=560&lines=%24+building+scalable+backend+systems;%24+designing+clean%2C+reliable+APIs;%24+turning+ideas+into+production+code" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,22 +16,23 @@
 
 ### `> cat about.md`
 
-I'm a **backend engineer** building a mutual fund investment platform on Python, FastAPI and AWS.
-Day to day I build the parts of fintech that have to be **right the first time**: KYC & onboarding flows, investment ordering and redemptions, portfolio management, and the email / push / OTP notification pipelines that keep users informed.
+I'm a **backend engineer** who builds APIs and services in Python, mostly with FastAPI and Django, running on AWS.
+I care about systems that are **right the first time**: clean data models, reliable integrations, and code that stays easy to change as the product grows.
 
 ### `> ls ./stack`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,aws,docker,git&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,redis,supabase,aws,docker&theme=dark&perline=9" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,postman,vscode,js,ts,react,pytorch&theme=dark&perline=9" />
 </p>
-
 
 ### `> tail -f now.log`
 
 ```log
-[shipping]  production APIs for KYC, orders and redemptions
+[shipping]  production APIs and backend services
 [learning]  Redis caching patterns · Docker from scratch · system design
-[building]  AI agents with a live office-style dashboard
+[building]  AI agents and LLM-powered side projects
 ```
 
 <br/>
@@ -39,5 +40,5 @@ Day to day I build the parts of fintech that have to be **right the first time**
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1f6feb,100:00e5a0&height=3&section=footer" width="100%" />
   <br/><br/>
-  <code>status: all systems operational · ask me about FastAPI, order flows or notification systems</code>
+  <code>status: all systems operational · ask me about FastAPI, API design or backend systems</code>
 </p>
